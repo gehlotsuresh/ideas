@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Suresh Gehlot</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Suresh Gehlot</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 17 Jun 2023 22:29:08 +0530</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Law and Efficiency</title>
+      <link>http://example.org/posts/posner-and-efficiency/</link>
+      <pubDate>Sat, 17 Jun 2023 22:29:08 +0530</pubDate>
+      
+      <guid>http://example.org/posts/posner-and-efficiency/</guid>
+      <description>In his paper, Posner contends that common law is efficient and wealth-maximising.1 He makes both a positive and normative claim. On the one hand, he explains why common law guided by the efficiency norm is wealth maximising. On the other hand, he claims that common law adjudication ought to follow the efficiency norm for wealth maximisation, for which he provides ethical reasons and reasons for political desirability. This post examines Posner&amp;rsquo;s claims and presents arguments that challenge the efficiency norm as a useful metric in common law adjudication.</description>
+    </item>
+    
+    <item>
+      <title>Rousseaus Discourse on Inequality</title>
+      <link>http://example.org/posts/rousseaus-discourse-on-inequality/</link>
+      <pubDate>Sat, 17 Jun 2023 22:29:08 +0530</pubDate>
+      
+      <guid>http://example.org/posts/rousseaus-discourse-on-inequality/</guid>
+      <description>Introduction In the Discourse, Rousseau presents his view of man in nature as a strong, agile being whose needs are few and easily met. He rejects the moral sense attributed to man by Hobbes and describes the natural man as self-sufficient, peaceful, and devoid of vanity and selfishness. Rousseau then traces the evolution of language and explores the roots of inequality, attributing it primarily to the institution of property.
+There are few philosophical works as powerful or as lasting as Jean-Jacques Rousseau&amp;rsquo;s Discourse on Inequality.</description>
+    </item>
+    
+    
+  </channel>
+</rss>

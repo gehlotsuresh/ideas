@@ -1,0 +1,80 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Suresh Gehlot'
+theme = "PaperMod"
+
+[params]
+  [params.profileMode]
+    enabled = true
+    title = "Suresh Gehlot" # default will be site title
+    subtitle = "This is my website"
+    imageUrl = "https://i.imgur.com/zGCJrlZ.jpg" # optional
+    imageTitle = "Title for the image" # optional
+    imageWidth = 120 # custom size
+    imageHeight = 120 # custom size
+  
+    [[params.profileMode.buttons]]
+      name = "Archive"
+      url = "/archive/"
+    
+    [[params.profileMode.buttons]]
+      name = "Github"
+      url = "https://github.com/"
+
+  [params.homeInfoParams]
+    Title = "Hello Stranger"
+    Content = "Welcome to this website. This is my conscious digital journal"
+  
+  [[params.socialIcons]]
+    name = "twitter"
+    url = "https://twitter.com/SuresGehlot"
+
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/sureshgehlot/"
+
+  [[params.socialIcons]]
+    name = "substack"
+    url = "https://substack.com/profile/91095546-suresh-gehlot?utm_source=substack_profile"
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/gehlotsuresh"
+
+  showbreadcrumbs = true
+  showreadingtime = true
+  showsharebuttons = true
+  showpostnavlinks= true
+
+
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+
+[menu]
+
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "Categories"
+    name = "Categories"
+    url = "/Categories/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "archives"
+    name = "Archives"
+    url = "/archives/"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "Tags"
+    name = "Tags"
+    url = "/Tags/"
+    weight = 4
