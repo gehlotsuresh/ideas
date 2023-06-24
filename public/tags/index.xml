@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Suresh Gehlot</title>
-    <link>http://example.org/tags/</link>
+    <link>http://sureshgehlot.com/tags/</link>
     <description>Recent content in Tags on Suresh Gehlot</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Jun 2023 22:29:08 +0530</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Jun 2023 22:29:08 +0530</lastBuildDate><atom:link href="http://sureshgehlot.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>bookreview</title>
-      <link>http://example.org/tags/bookreview/</link>
+      <link>http://sureshgehlot.com/tags/bookreview/</link>
       <pubDate>Sat, 17 Jun 2023 22:29:08 +0530</pubDate>
       
-      <guid>http://example.org/tags/bookreview/</guid>
+      <guid>http://sureshgehlot.com/tags/bookreview/</guid>
       <description></description>
     </item>
     

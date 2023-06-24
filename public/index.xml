@@ -2,29 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Suresh Gehlot</title>
-    <link>http://example.org/</link>
+    <link>http://sureshgehlot.com/</link>
     <description>Recent content on Suresh Gehlot</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Jun 2023 22:29:08 +0530</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Jun 2023 22:29:08 +0530</lastBuildDate><atom:link href="http://sureshgehlot.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Law and Efficiency</title>
-      <link>http://example.org/posts/posner-and-efficiency/</link>
+      <link>http://sureshgehlot.com/posts/posner-and-efficiency/</link>
       <pubDate>Sat, 17 Jun 2023 22:29:08 +0530</pubDate>
       
-      <guid>http://example.org/posts/posner-and-efficiency/</guid>
+      <guid>http://sureshgehlot.com/posts/posner-and-efficiency/</guid>
       <description>In his paper, Posner contends that common law is efficient and wealth-maximising.1 He makes both a positive and normative claim. On the one hand, he explains why common law guided by the efficiency norm is wealth maximising. On the other hand, he claims that common law adjudication ought to follow the efficiency norm for wealth maximisation, for which he provides ethical reasons and reasons for political desirability. This post examines Posner&amp;rsquo;s claims and presents arguments that challenge the efficiency norm as a useful metric in common law adjudication.</description>
     </item>
     
     <item>
       <title>Rousseaus Discourse on Inequality</title>
-      <link>http://example.org/posts/rousseaus-discourse-on-inequality/</link>
+      <link>http://sureshgehlot.com/posts/rousseaus-discourse-on-inequality/</link>
       <pubDate>Sat, 17 Jun 2023 22:29:08 +0530</pubDate>
       
-      <guid>http://example.org/posts/rousseaus-discourse-on-inequality/</guid>
+      <guid>http://sureshgehlot.com/posts/rousseaus-discourse-on-inequality/</guid>
       <description>Introduction In the Discourse, Rousseau presents his view of man in nature as a strong, agile being whose needs are few and easily met. He rejects the moral sense attributed to man by Hobbes and describes the natural man as self-sufficient, peaceful, and devoid of vanity and selfishness. Rousseau then traces the evolution of language and explores the roots of inequality, attributing it primarily to the institution of property.
 There are few philosophical works as powerful or as lasting as Jean-Jacques Rousseau&amp;rsquo;s Discourse on Inequality.</description>
     </item>
+    
+    <item>
+      <title></title>
+      <link>http://sureshgehlot.com/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://sureshgehlot.com/resume/</guid>
+      <description>I am a law student at the National Law School of India University. I have previous experience in risk consultancy, policy, and the non-profit sector. A graduate in Political Science with a minor in History from Hindu College, Delhi University, I am passionate about deep tech, international law, and philosophy. My career goal is to become a Transactional Lawyer in the tech startup landscape.
+Professional Experience Junior Co-opt, Council for International Relations and International Law (&amp;lsquo;CIRIL&amp;rsquo;), NLSIU (November 2022 - Present)</description>
+    </item>
+    
     
     
   </channel>
