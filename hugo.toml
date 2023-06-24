@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://sureshgehlot.com/'
 languageCode = 'en-us'
 title = 'Suresh Gehlot'
 theme = "PaperMod"
@@ -7,10 +7,10 @@ theme = "PaperMod"
   [params.profileMode]
     enabled = true
     title = "Suresh Gehlot" # default will be site title
-    subtitle = "This is my website"
+    subtitle = "Law graduate tinkering with technology and finance"
     imageUrl = "https://i.imgur.com/zGCJrlZ.jpg" # optional
     imageTitle = "Title for the image" # optional
-    imageWidth = 120 # custom size
+    imageWidth = 125 # custom size
     imageHeight = 120 # custom size
   
     [[params.profileMode.buttons]]
@@ -18,8 +18,13 @@ theme = "PaperMod"
       url = "/archive/"
     
     [[params.profileMode.buttons]]
-      name = "Github"
-      url = "https://github.com/"
+      name = "Linkedin"
+      url = "https://www.linkedin.com/in/sureshgehlot/"
+
+
+     [[params.profileMode.buttons]]    
+      name = "Substack"
+      url =  "https://substack.com/profile/91095546-suresh-gehlot?utm_source=substack_profile"
 
   [params.homeInfoParams]
     Title = "Hello Stranger"
@@ -30,22 +35,28 @@ theme = "PaperMod"
     url = "https://twitter.com/SuresGehlot"
 
   [[params.socialIcons]]
-    name = "linkedin"
-    url = "https://www.linkedin.com/in/sureshgehlot/"
+    name = "telegram"
+    url = "https://t.me/gehlotsuresh"
+
 
   [[params.socialIcons]]
-    name = "substack"
-    url = "https://substack.com/profile/91095546-suresh-gehlot?utm_source=substack_profile"
+    name = "goodreads"
+    url = "https://www.goodreads.com/user/show/159810341-suresh-gehlot"
 
   [[params.socialIcons]]
-    name = "github"
+    name = "Medium"
+    url = "https://sureshofgehlot.medium.com"
+
+  [[params.socialIcons]]
+    name = "Github"
     url = "https://github.com/gehlotsuresh"
+
 
   showbreadcrumbs = true
   showreadingtime = true
   showsharebuttons = true
   showpostnavlinks= true
-
+  
 
 
 [taxonomies]
@@ -78,3 +89,24 @@ theme = "PaperMod"
     name = "Tags"
     url = "/Tags/"
     weight = 4
+
+    [[menu.main]]
+    identifier = "resume"
+    name = "Resume"
+    url = "/resume/"
+    weight = 5
+
+    [[menu.main]]
+    identifier = "search"
+    name = "Search"
+    url = "/search"
+    weight = 6
+
+
+[params.search]
+    path = "/index.json"
+    placeholder = "Type here to search..."
+    noResultsFound = "No results found."
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]

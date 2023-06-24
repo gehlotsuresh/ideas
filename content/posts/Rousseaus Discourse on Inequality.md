@@ -3,7 +3,6 @@ title: "Rousseaus Discourse on Inequality"
 date: 2023-06-17T22:29:08+05:30
 draft: false
 cover: 
-    image: img/bookcover.jpeg
     Alt: Book Cover
 tags: ["bookreview"]
 categories: ["philosophy"]
