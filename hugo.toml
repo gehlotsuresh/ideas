@@ -13,9 +13,6 @@ theme = "PaperMod"
     imageWidth = 125 # custom size
     imageHeight = 120 # custom size
   
-    [[params.profileMode.buttons]]
-      name = "Archive"
-      url = "/archive/"
     
     [[params.profileMode.buttons]]
       name = "Linkedin"
